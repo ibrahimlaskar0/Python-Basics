@@ -3,7 +3,7 @@ y = -5
 z = 7
 
 
-# result = round(x) (round off to the nearest number)
+result = round(x) #(round off to the nearest number)
 
 # result = abs (y)  (its the distance of the calue from 0 here the distance is 5)
 
