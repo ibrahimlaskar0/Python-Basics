@@ -17,4 +17,6 @@ elif operator == "*":
 elif operator == "/":
     result = num1 /num2
 
-print(result)
+print(f"{result}")
+
+
