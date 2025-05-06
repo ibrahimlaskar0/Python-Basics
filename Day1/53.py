@@ -20,7 +20,7 @@ name = name.upper() # all charac are upper now
 
 name. isdigit() # means if the sting only contains digit its gonna show true or else false
 
-result = name.isalpha() # is alpha means all are in alphabatical ordr if it not it will give false and it always return a bullion means true or false
+result = name.isalpha() # is alpha means it always return a bullion means true or false and has no numbers only alphabets
 
 name.replace("-"," ") # replace is used to replace anything
 
