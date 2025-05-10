@@ -1,3 +1,6 @@
+#lists are mutable (means it can be cahnged)
+
+
 fruits = ["apple", "banana" , "mango"]
 
 
