@@ -1,3 +1,9 @@
+#Dictionary = key-value pairs.
+
+#Think of it like a real dictionary: word (key) ➔ meaning (value)
+ 
+
+ 
 student ={
     "name" : "ibrahim",
     "age": 18,
