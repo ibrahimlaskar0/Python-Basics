@@ -1,4 +1,4 @@
-#lists are mutable (means it can be cahnged)
+#lists are mutable (means it can be changed)
 
 
 fruits = ["apple", "banana" , "mango"]
